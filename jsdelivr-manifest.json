@@ -1,0 +1,63 @@
+{
+  "repository": "badralslmy/anime-studio-logos",
+  "branch": "main",
+  "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main",
+  "assets": [
+    {
+      "name": "A-1_Pictures_Logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/A-1_Pictures_Logo.svg"
+    },
+    {
+      "name": "Bones_logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Bones_logo.svg"
+    },
+    {
+      "name": "CloverWorks_Logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/CloverWorks_Logo.svg"
+    },
+    {
+      "name": "J.C.Staff_Logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/J.C.Staff_Logo.svg"
+    },
+    {
+      "name": "Kyoto_Animation_logo_2rows.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Kyoto_Animation_logo_2rows.svg"
+    },
+    {
+      "name": "MAPPA_Logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/MAPPA_Logo.svg"
+    },
+    {
+      "name": "Madhouse_studio_logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Madhouse_studio_logo.svg"
+    },
+    {
+      "name": "Production_I.G_Logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Production_I.G_Logo.svg"
+    },
+    {
+      "name": "Studio_Deen_logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Studio_Deen_logo.svg"
+    },
+    {
+      "name": "Studio_Ghibli.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Studio_Ghibli.svg"
+    },
+    {
+      "name": "Sunrise-Logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Sunrise-Logo.svg"
+    },
+    {
+      "name": "Ufotable_logo.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Ufotable_logo.svg"
+    },
+    {
+      "name": "Wit_studio.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/Wit_studio.svg"
+    },
+    {
+      "name": "toei_animation.svg",
+      "url": "https://cdn.jsdelivr.net/gh/badralslmy/anime-studio-logos@main/toei_animation.svg"
+    }
+  ]
+}
